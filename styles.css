@@ -1,0 +1,13 @@
+body {
+  background-color: #1a1a1a;
+  color: #ededed;
+}
+
+#About svg {
+  transform: scale(1.5);
+}
+
+#About .container {
+  position: relative;
+  margin-top: 200px; /* Adjust this value as needed */
+}
